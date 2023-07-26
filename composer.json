@@ -1,0 +1,19 @@
+{
+  "name": "lightnicus/afterpay-magento",
+  "type": "magento-module",
+  "license": "GNU-General-Public-License-v3",
+  "homepage": "",
+  "description": "Afterpay payment module for Openmage with composer support",
+  "authors": [
+    {
+      "name": "Ginger Payments B.V.",
+      "email": "info@gingerpayments.com"
+    }
+  ],
+  "suggest": {
+    "magento-hackathon\/magento-composer-installer": "*"
+  },
+  "keywords": [
+    "openmage-module"
+  ]
+}
